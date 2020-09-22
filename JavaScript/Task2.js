@@ -17,9 +17,7 @@
 
 
 
-
-
-
+/// SOLUTION
 
 function generateHashtag (str) {
   let str2 = str.replace(/\s+/, "") 
